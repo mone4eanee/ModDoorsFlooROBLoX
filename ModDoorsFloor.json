@@ -231,7 +231,7 @@
     "games" : [
         {
             "name" : "DOORS FLOOR MOD1",
-            "ico" : "https://github.com/mone4eanee/ModdoorsfloorobLox/blob/main/couv.png",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/couv.png",
             "link" : "https://robloxdoorsgame.com/wp-content/uploads/gg/grandpa-granny-4/",
             "cat" : "Overall",
             "orientation" : "0"
